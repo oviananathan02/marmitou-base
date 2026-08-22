@@ -5,3 +5,11 @@ target/
 *.iml
 .vscode/
 .DS_Store
+
+# Config local com segredo real — nunca comitar.
+application-local.yml
+application-local.properties
+.env
+.env.*
+*.local.yml
+*.local.properties
